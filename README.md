@@ -1,7 +1,7 @@
 # max30100_firebase
 
 *components required* :
-                     * A WI_FI module preferably node-MCU(ESP-8232) to act as a micro controller.
+* A WI_FI module preferably node-MCU(ESP-8232) to act as a micro controller.
                      * MAX-30100 heartbeat and blood oxygen sensor.
                      * connector pins for sensor to micro controller.
                      * breadboard(optional) for  stable readings.
